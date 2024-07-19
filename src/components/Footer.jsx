@@ -2,7 +2,7 @@
 const Footer = () => {
   return (
     <>
-    <footer className="footer bg-black text-neutral-content flex items-center justify-center p-4 ">
+    <footer className="footer  bg-gradient-to-r from-[#ff0084] to-[#33001b] text-neutral-content flex items-center justify-center p-4 ">
   <aside className="grid-flow-col items-center">
     <svg
       width="36"
