@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Middle from "./components/Middle"
 import Bio from "./components/Bio";
+import Footer from "./components/Footer";
 
 
 
@@ -22,7 +23,7 @@ const App = () => {
          fraud = {personData.fraud}
 
     ></Bio>
-    
+    <Footer></Footer>
   
     </>
   )
